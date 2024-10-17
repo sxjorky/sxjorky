@@ -1,0 +1,19 @@
+{
+  "name": "basvuru-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Fr3zy Başvuru bot altyapısı. izin alınmadan paylaşılamaz.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "croxydb": "^0.0.22",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
